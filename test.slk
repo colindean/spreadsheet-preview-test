@@ -1,0 +1,6 @@
+ID;PCALCOOO32
+C;X1;Y1;K"This is a test SLYK from LibreOffice"
+C;X1;Y3;K50
+C;X1;Y4;K50
+C;X2;Y4;K100;ESUM(A3:A4)
+E
